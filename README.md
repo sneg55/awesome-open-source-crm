@@ -46,6 +46,7 @@
 
 | Name | Description | Stack | Stars |
 |------|-------------|-------|-------|
+| [Customermates](https://github.com/customermates/customermates) | Open-source CRM with native n8n workflow automation, built for small B2B teams | TypeScript (Next.js + NestJS) | ![GitHub stars](https://img.shields.io/github/stars/customermates/customermates?style=flat-square) |
 | [DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) | Track daily workflow with leads, tasks, and clients | PHP/Laravel | ![GitHub stars](https://img.shields.io/github/stars/Bottelet/DaybydayCRM?style=flat-square) |
 | [Django-CRM](https://github.com/MicroPyramid/Django-CRM) | CRM for startups with sales pipeline management | Python/Django | ![GitHub stars](https://img.shields.io/github/stars/MicroPyramid/Django-CRM?style=flat-square) |
 | [Krayin](https://github.com/krayin/laravel-crm) | Low-code CRM with enterprise-grade features | PHP/Laravel | ![GitHub stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=flat-square) |
