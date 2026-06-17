@@ -71,6 +71,7 @@
 |------|-------------|-------|-------|
 | [N8n](https://github.com/n8n-io/n8n) | Workflow automation to connect CRM with other tools | TypeScript | ![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square) |
 | [Cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for CRM integrations | TypeScript | ![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=flat-square) |
+| [Beton Inspector](https://github.com/getbeton/inspector) | Revenue intelligence — detects buying, expansion & churn signals from PostHog product usage and pushes them into the CRM | TypeScript | ![GitHub stars](https://img.shields.io/github/stars/getbeton/inspector?style=flat-square) |
 
 ---
 
