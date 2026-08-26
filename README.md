@@ -61,6 +61,7 @@
 
 | Name | Description | Stack | Stars |
 |------|-------------|-------|-------|
+| [Accordo](https://github.com/khaoss85/agent-crm) | Framework for building a custom CRM as code with a coding agent, with deterministic policy and audit; not a deployable CRM — it ships no authentication | Node.js | ![GitHub stars](https://img.shields.io/github/stars/khaoss85/agent-crm?style=flat-square) |
 | [NocoBase](https://github.com/nocobase/nocobase) | No-code/low-code platform for CRM workflows | TypeScript | ![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase?style=flat-square) |
 | [Corteza](https://github.com/cortezaproject/corteza) | Low-code platform with CRM and messaging | Go | ![GitHub stars](https://img.shields.io/github/stars/cortezaproject/corteza?style=flat-square) |
 
