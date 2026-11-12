@@ -1,32 +1,28 @@
-# Contributing
+# Contribution Guidelines
 
-Thanks for your interest in contributing to Awesome Open Source CRM!
+This list covers open source CRM software that you can run on your own servers. It is a curation of the best, not a directory of everything.
 
-## Adding a CRM
+## Inclusion criteria
 
-1. Fork this repository
-2. Add the CRM to the appropriate section in README.md
-3. Follow the table format:
-   ```
-   | [Name](url) | Description | Stack | ![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=flat-square) |
-   ```
-4. Submit a pull request
+An entry must meet all of these:
 
-## Guidelines
+- A CRM, or a framework built for making one. Adjacent tools such as helpdesks, schedulers and automation platforms are out of scope.
+- Licensed under an OSI-approved license, stated in the repository. Open-core projects qualify when the CRM itself runs under that license and paid add-ons live in separate directories.
+- Self-hostable, with installation documentation.
+- Maintained: not archived, with a commit in the last 12 months.
+- Shows it works: a published release or a public live demo.
 
-- **Open source only** — Must have publicly available source code
-- **Actively maintained** — Should have commits within the last 12 months
-- **Working software** — Must be functional, not just a concept
-- **CRM-related** — Must be a CRM or directly support CRM workflows
+## Adding an entry
 
-## Categories
+- Add one entry per pull request, in alphabetical order within its section.
+- Use the format `- [Name](link) - Description.`
+- Write the description as one objective sentence that starts with a capital letter and ends with a period. Leave out marketing words.
+- Link the canonical upstream repository, not a fork.
 
-- **Personal CRM** — For managing personal relationships and networking
-- **Enterprise CRM** — Full-featured business CRM systems
-- **Lightweight CRM** — Simple, focused CRM tools
-- **CRM Frameworks** — Platforms for building custom CRM solutions
-- **Related Tools** — Complementary tools for CRM workflows
+## Removing an entry
 
-## Questions?
+A scheduled check flags entries that are archived or have had no commit for a year. Flagged entries are removed.
 
-Open an issue if you're unsure where something belongs!
+## Code of conduct
+
+Be kind, assume good faith, and keep discussion about the software.
