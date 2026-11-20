@@ -26,7 +26,6 @@ Every entry is openly licensed, maintained and self-hostable. Entries are listed
 - [Atomic CRM](https://github.com/marmelab/atomic-crm) - Contacts, tasks, notes and a Kanban deal pipeline, built with React, shadcn/ui and Supabase for customization.
 - [BottleCRM](https://github.com/Django-CRM/Django-CRM) - Sales, support tickets and invoicing in one application.
 - [Comp AI CRM](https://github.com/trycompai/crm) - CRM operated by an AI agent that researches contacts, schedules its own follow-ups and records only sourced facts.
-- [Customermates](https://github.com/customermates/customermates) - Client CRM with an AGPL core, MCP and REST APIs and webhooks, deployed with Docker Compose.
 - [DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - Leads, tasks and clients organized around a team's daily workflow.
 - [Deskcomm CRM](https://github.com/melgarafael/DeskcommCRM) - Sales CRM for WhatsApp with AI agents that answer and qualify leads.
 - [Django CRM](https://github.com/DjangoCRM/django-crm) - Leads, deals, tasks, projects and email campaigns, built on Django.
