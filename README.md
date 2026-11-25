@@ -36,6 +36,7 @@ Every entry is openly licensed, maintained and self-hostable. Entries are listed
 - [NextCRM](https://github.com/pdovhomilja/nextcrm-app) - CRM with projects, invoicing and documents, built with Next.js.
 - [OroCRM](https://github.com/oroinc/crm-application) - CRM for marketing, sales and customer service, built on Symfony.
 - [Relaticle](https://github.com/relaticle/relaticle) - Companies, people, opportunities, tasks and notes, with a REST API that AI agents can read and update.
+- [Reloop](https://github.com/reloopcrm/reloop) - CRM that reads the history of a connected mailbox, ranks former customers worth winning back and drafts a follow-up for each.
 - [SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) - CRM for sales, marketing and customer service, forked from SugarCRM Community Edition.
 - [tiny-crm](https://github.com/frikishaan/tiny-crm) - Small CRM built with Filament PHP.
 - [Twenty](https://github.com/twentyhq/twenty) - CRM with a customizable data model, built with TypeScript, NestJS and React.
